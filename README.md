@@ -1,2 +1,2 @@
 # Biblioteca-Comfandi
-Creacion de un aplicativo el cual lleve el registro de todas las personas que ingresen a la biblioteca, ademas, de un informe en PDF
+Se ha desarrollado un aplicativo utilizando el lenguaje de programación JAVA con el objetivo de mejorar la toma de asistencia en la biblioteca de la institución educativa Comfandi. El aplicativo cuenta con funcionalidades para el registro e inicio de sesión de usuarios, así como para la generación de reportes. Los reportes pueden ser generados para diferentes tipos de usuarios, incluyendo estudiantes, visitantes, personal administrativo y docentes. Esto permite a la institución tener un mejor control y seguimiento de la asistencia en su biblioteca
